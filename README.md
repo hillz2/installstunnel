@@ -6,7 +6,7 @@ Di terminal ketik:
 ```shell
 apt-get update
 apt-get upgrade
-apt-install -y dropbear
+apt-get install -y dropbear
 nano /etc/default/dropbear
 ```
 Isi sebagai berikut:
